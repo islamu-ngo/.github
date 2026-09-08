@@ -7,6 +7,11 @@ ISLAMU is built by Amir Akrari
 ### Mission & Funding
 We develop and maintain open-source software platforms and community infrastructure. Sponsorships and financial contributions directly support application hosting, infrastructure costs, domain services, and ongoing open-source maintenance.
 
+### ISLAMU Solutions
+
+- [ISLAMU Event](https://github.com/islamu-ngo/Event): Event Platform & Management System.
+- [I-VSD](https://github.com/islamu-ngo/Islamic-Value-Sensitive-Design): Islamic Value Sensitive Design: A Framework for Provider-Mediated Software Solutions
+
 ### Contact
 * **Email:** contact@openislamu.org
 * **Community:** [Discord](https://discord.gg/wrkY824Yv5)
