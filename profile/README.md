@@ -10,6 +10,9 @@ We develop and maintain open-source software platforms and community infrastruct
 ### ISLAMU Solutions
 
 - [ISLAMU Event](https://github.com/islamu-ngo/Event): Event Platform & Management System.
+- [ISLAMU Configurator](https://github.com/islamu-ngo/Configurator): Universal Self-Hosting Configuration Assistant
+- [ISLAMU SecretKit](https://github.com/islamu-ngo/SecretKit): Unified secret management SDK for .NET
+
 - [I-VSD](https://github.com/islamu-ngo/Islamic-Value-Sensitive-Design): Islamic Value Sensitive Design: A Framework for Provider-Mediated Software Solutions
 
 ### Contact
